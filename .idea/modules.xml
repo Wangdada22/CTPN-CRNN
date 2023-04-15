@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/CTPN_CRNN.iml" filepath="$PROJECT_DIR$/.idea/CTPN_CRNN.iml" />
+      <module fileurl="file://$PROJECT_DIR$/__pycache__/.idea/__pycache__.iml" filepath="$PROJECT_DIR$/__pycache__/.idea/__pycache__.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../bishe/CRNN_Chinese_Characters_Rec-stable/.idea/crnn.iml" filepath="$PROJECT_DIR$/../../bishe/CRNN_Chinese_Characters_Rec-stable/.idea/crnn.iml" />
+      <module fileurl="file://$USER_HOME$/Downloads/crnn.pytorch-master/.idea/crnn.pytorch-master.iml" filepath="$USER_HOME$/Downloads/crnn.pytorch-master/.idea/crnn.pytorch-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../ORC/.idea/ocr.pytorch.iml" filepath="$PROJECT_DIR$/../ORC/.idea/ocr.pytorch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../train_gt_t13/.idea/train_gt_t13.iml" filepath="$PROJECT_DIR$/../train_gt_t13/.idea/train_gt_t13.iml" />
+    </modules>
+  </component>
+</project>
